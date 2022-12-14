@@ -5,7 +5,7 @@ This is a web based application developed for Latest Photography Techniques
 ### This web based  application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - 
+**Project Link** - https://mango-hill-08f93e710.2.azurestaticapps.net
 
 ## Key Features : 
 
